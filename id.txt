@@ -1,0 +1,3 @@
+name - Hasan
+email - hasan@myseneca.ca
+id - 120597224
